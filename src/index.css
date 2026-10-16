@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Plásticos Multiform: naranja #F46F16 (500) y gris #706D6E del logo. */
+@theme {
+  --color-brand-50: #fff5ed;
+  --color-brand-100: #ffe8d5;
+  --color-brand-200: #fdcca8;
+  --color-brand-300: #fba873;
+  --color-brand-400: #f8873f;
+  --color-brand-500: #f46f16;
+  --color-brand-600: #d95a0b;
+  --color-brand-700: #b4460c;
+  --color-brand-800: #8f3911;
+  --color-brand-900: #743111;
+  --color-brand-950: #3f1606;
+  --color-marca-gris: #706d6e;
+}

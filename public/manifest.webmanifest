@@ -1,0 +1,17 @@
+{
+  "name": "FlexoCalc Pro · Plásticos Multiform",
+  "short_name": "FlexoCalc",
+  "description": "Costos de planchas y selección de mangas Comexi F2 ML",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "background_color": "#fafafa",
+  "theme_color": "#f46f16",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

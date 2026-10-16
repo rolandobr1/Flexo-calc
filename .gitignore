@@ -1,0 +1,19 @@
+# Dependencias y compilados
+node_modules/
+dist/
+build/
+coverage/
+
+# Claves y configuración local (nunca se suben)
+.env*
+!.env.example
+
+# Paquete para subir al servidor (se genera con npm run build)
+*.zip
+
+# Otros
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+.superpowers/
